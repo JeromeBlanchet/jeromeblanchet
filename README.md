@@ -32,7 +32,7 @@ https://www.kaggle.com/jeromeblanchet/competitions
 •Top 27% - Deep Fake Detection Challenge - Identify videos with facial or voice manipulations   
 
 ### AICrowd Deep Learning/ML Competitions:
-Just starting exploring this AI platform https://www.aicrowd.com/participants/jerome_blanchet   
+Just starting exploring this new AI/ML competition platform https://www.aicrowd.com/participants/jerome_blanchet   
 
 ### Contact Me at:
 •Gmail: JeromeblanchetAI@gmail.com   
