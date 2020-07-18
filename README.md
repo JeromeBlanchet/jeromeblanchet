@@ -91,3 +91,12 @@ Other Datasets:
 •Federal Home Loan Level Bank System 2009-2018   
 •Canada Civil Aircraft Fatalities & Injuries   
 
+### Timeline
+•Key Speaker at the Big Data & Analytics Conference https://infonex.com/1376/ (November 2020) Transformers, Deep Learning, Attention, NLP      
+•Senior Analyst - Model Development, at Transport Canada (2020-)  Ottawa, Ontario, Canada         
+•Senior Specialist - Model Development & Housing Finance Stability Researcher, at CMHC (2015-2019) Ottawa, Ontario, Canada      
+•Analyst - Model Development, at DDM Group (2013-2014) Québec City      
+•Academic Research Assistant in Econometric, Model Development, at Sherbrooke University (2012)      
+•Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University (-2011)      
+
+
