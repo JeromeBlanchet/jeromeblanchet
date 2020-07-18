@@ -5,10 +5,10 @@
 ― William Gibson   
 
 ### DrivenData Deep Learning/ML Competitions:
-•Top 0.1% (2th out of 1,600+ teams) - https://tinyurl.com/ux6ztrw Reboot: Box-Plots for Education   
-•Top 0.4% (7th out of 1,700+ teams) - https://tinyurl.com/s2f3yxt Richter's Predictor: Modeling Earthquake Damage   
-•Top 1.3% (37th out of 2,700+ teams) - https://tinyurl.com/y4czhn24 United Nations Millennium Development Goals   
-•Top 05% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9 Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines 
+•Top 0.1% (2th out of 1,600+ teams) - https://tinyurl.com/ux6ztrw - Reboot: Box-Plots for Education   
+•Top 0.4% (7th out of 1,700+ teams) - https://tinyurl.com/s2f3yxt - Richter's Predictor: Modeling Earthquake Damage   
+•Top 1.3% (37th out of 2,700+ teams) - https://tinyurl.com/y4czhn24 - United Nations Millennium Development Goals   
+•Top 05% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9 - Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines 
 
 ### Kaggle Deep Learning/ML Competitions:   
 https://www.kaggle.com/jeromeblanchet/competitions   
@@ -59,9 +59,9 @@ Nb Votes/Nb Post: 6.25
 •The FICO Competition Challenge is about Interpreting Black Box Algorithms   
 
 ### Kaggle Datasets (Uploading, Promoting, & Managing the ''exclusive'' availability of 22 Datasets)
+https://www.kaggle.com/jeromeblanchet/datasets?sort=votes   
 Mainly in the field of Natural Language Processing & Question Answer Learning.   
 Most of these datasets have their own BERT Leaderboard, & represent a technical variation of the SQuAD Dataset.   
-https://www.kaggle.com/jeromeblanchet/datasets?sort=votes   
 
 NLP Datasets:   
 
