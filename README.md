@@ -29,7 +29,7 @@ https://www.kaggle.com/jeromeblanchet/competitions
 •Top 17% - Flower Classification with TPUs   
 •Top 20% - M5 Forecasting - Uncertainty - Estimate the uncertainty distribution of Walmart unit sales   
 •Top 22% - Santa's Workshop Tour 2019   
-•Top 22% - Personalized Medicine: Redefining Cancer Treatment - Predict the effect of Genetic Variants to enable Personalized Medicine   
+•Top 22% - Personalized Medicine: Redefining Cancer Treatment - Predict the effect of Genetic Variants      
 •Top 27% - Deep Fake Detection Challenge - Identify videos with facial or voice manipulations   
 ```
 
