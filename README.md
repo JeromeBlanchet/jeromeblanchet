@@ -7,8 +7,8 @@
 ### DrivenData Deep Learning/ML Competitions:
 •Top 0.1% (2th out of 1,600+ teams) - https://tinyurl.com/ux6ztrw Reboot: Box-Plots for Education   
 •Top 0.4% (7th out of 1,700+ teams) - https://tinyurl.com/s2f3yxt Richter's Predictor: Modeling Earthquake Damage   
-•Top 1.3% (37th out of 2,700+ teams) - https://tinyurl.com/y4czhn24   
-•Top 5% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9   
+•Top 1.3% (37th out of 2,700+ teams) - https://tinyurl.com/y4czhn24 United Nations Millennium Development Goals   
+•Top 5% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9 Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines 
 
 ### Kaggle Deep Learning/ML Competitions:   
 https://www.kaggle.com/jeromeblanchet/competitions   
