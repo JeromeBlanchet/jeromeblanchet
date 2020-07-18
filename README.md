@@ -22,6 +22,6 @@ https://www.aicrowd.com/participants/jerome_blanchet
 --Gmail: JeromeblanchetAI@gmail.com   
 --LinkedIn: https://tinyurl.com/sxqeysd   
 --Twitter: https://twitter.com/JrmeEBlancht1    
---LifesonAI (Oganization): https://github.com/LifesonAI
---GitHub (personal account): https://github.com/JeromeBlanchet 
---Facebook AI & Deep Learning Memes Moderator: https://www.facebook.com/groups/1638417209555402/members/admins
+--LifesonAI (Oganization): https://github.com/LifesonAI   
+--GitHub (personal account): https://github.com/JeromeBlanchet  
+--Facebook AI & Deep Learning Memes Moderator: https://www.facebook.com/groups/1638417209555402/members/admins   
