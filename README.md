@@ -14,4 +14,11 @@ Top 5% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9
 https://www.kaggle.com/jeromeblanchet/competitions   
 
 ### AICrowd Deep Learning Competitions:
-https://www.aicrowd.com/participants/jerome_blanchet
+https://www.aicrowd.com/participants/jerome_blanchet   
+
+### Contact Me at:
+--Gmail: JeromeblanchetAI@gmail.com   
+--LinkedIn: https://tinyurl.com/sxqeysd   
+--GitHub: https://github.com/JeromeBlanchet   
+--Twitter: https://twitter.com/JrmeEBlancht1   
+--Facebook AI & Deep Learning Memes Moderator: https://www.facebook.com/groups/1638417209555402/members/admins
