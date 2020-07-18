@@ -5,30 +5,30 @@
 ― William Gibson   
 
 ### DrivenData Deep Learning/ML Competitions:
-•Top 0,1% (2th out of 1,600+ teams) - https://tinyurl.com/ux6ztrw   
-•Top 0,4% (7th out of 1,700+ teams) - https://tinyurl.com/s2f3yxt   
-•Top 1,3% (37th out of 2,700+ teams) - https://tinyurl.com/y4czhn24   
+•Top 0.1% (2th out of 1,600+ teams) - https://tinyurl.com/ux6ztrw   
+•Top 0.4% (7th out of 1,700+ teams) - https://tinyurl.com/s2f3yxt   
+•Top 1.3% (37th out of 2,700+ teams) - https://tinyurl.com/y4czhn24   
 •Top 5% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9   
 
 ### Kaggle Deep Learning/ML Competitions:   
 https://www.kaggle.com/jeromeblanchet/competitions   
-•Top 01% - Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data
-•Top 01% - Housing Prices Competition for Kaggle Learn Users (InClass 19k+ teams)
-•Top 01% - House Prices: Advanced Regression Techniques
-•Top 01% - Titanic: Machine Learning from Disaster
-•Top 02% - Deep Fake Detection Challenge
-•Top 03% - Предсказать день визита
-•Top 04% - Catch Me If You Can - Intruder Detection through Webpage Session Tracking
-•Top 04% - Predict Future Sales
-•Top 04% - Real or Not? NLP with Disaster Tweets
-•Top 05% - Adult-PMR3508
-•Top 06% - Flower Classification with TPUs
-•Top 06% - Categorical Feature Encoding Challenge II
-•Top 11% - Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
-•Top 22% - Santa's Workshop Tour 2019
-•Top 22% - Personalized Medicine: Redefining Cancer Treatment
+•Top 01% - Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data   
+•Top 01% - Housing Prices Competition for Kaggle Learn Users (InClass 19k+ teams)   
+•Top 01% - House Prices: Advanced Regression Techniques   
+•Top 01% - Titanic: Machine Learning from Disaster   
+•Top 02% - Deep Fake Detection Challenge   
+•Top 03% - Предсказать день визита   
+•Top 04% - Catch Me If You Can - Intruder Detection through Webpage Session Tracking   
+•Top 04% - Predict Future Sales   
+•Top 04% - Real or Not? NLP with Disaster Tweets   
+•Top 05% - Adult-PMR3508   
+•Top 06% - Flower Classification with TPUs   
+•Top 06% - Categorical Feature Encoding Challenge II   
+•Top 11% - Zillow Prize: Zillow’s Home Value Prediction (Zestimate)   
+•Top 22% - Santa's Workshop Tour 2019   
+•Top 22% - Personalized Medicine: Redefining Cancer Treatment   
 
-Top 2% - Categorical Feature Encoding Challenge II   
+Top 02% - Categorical Feature Encoding Challenge II   
 
 
 ### AICrowd Deep Learning/ML Competitions:
