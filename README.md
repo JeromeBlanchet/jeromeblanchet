@@ -12,6 +12,7 @@
 
 ### Kaggle Deep Learning/ML Competitions:   
 https://www.kaggle.com/jeromeblanchet/competitions   
+```
 •Top 01% - Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data   
 •Top 01% - Housing Prices Competition for Kaggle Learn Users (InClass 19k+ teams)   
 •Top 01% - House Prices: Advanced Regression Techniques   
@@ -30,6 +31,7 @@ https://www.kaggle.com/jeromeblanchet/competitions
 •Top 22% - Santa's Workshop Tour 2019   
 •Top 22% - Personalized Medicine: Redefining Cancer Treatment - Predict the effect of Genetic Variants to enable Personalized Medicine   
 •Top 27% - Deep Fake Detection Challenge - Identify videos with facial or voice manipulations   
+```
 
 ### AICrowd Deep Learning/ML Competitions:
 Just starting exploring this new AI/ML competition platform https://www.aicrowd.com/participants/jerome_blanchet   
@@ -46,7 +48,7 @@ Just starting exploring this new AI/ML competition platform https://www.aicrowd.
 https://www.kaggle.com/jeromeblanchet/discussion   
 Net Votes: 75   
 Nb Votes/Nb Post: 6.25   
-
+```
 •Dimension Reduction for Predictive Modelling and Clustering (41 x up-voted)   
 •LSTM Neural Network & Dropout Regularization Strategy (9 x up-voted)   
 •Concatenating PCA & Correspondence Analysis Factors in your modelling (6 x up-voted)   
@@ -57,14 +59,14 @@ Nb Votes/Nb Post: 6.25
 •Approaches for Handling Missing Data (2 x up-voted)   
 •Self-organizing Map (SOM) (1 x up-voted)   
 •The FICO Competition Challenge is about Interpreting Black Box Algorithms   
-
+```
 ### Kaggle Datasets (Uploading, Promoting, & Managing the ''exclusive'' availability of 22 Datasets)
 https://www.kaggle.com/jeromeblanchet/datasets?sort=votes   
 Mainly in the field of Natural Language Processing & Question Answer Learning.   
 Most of these datasets have their own BERT Leaderboard, & represent a technical variation of the SQuAD Dataset.   
 
 NLP Datasets:   
-
+```
 •CommonsenseQA   
 •SciQ   
 •ReCoRD   
@@ -83,14 +85,14 @@ NLP Datasets:
 •DROP   
 •QuaRTz   
 •CoQA   
-
+```
 Other Datasets:   
-
+```
 •Fannie Mae & Freddie Mac Database 2008-2018   
 •Johns Hopkins University’s Department of Computer Science Multi-Domain Sentiment Data   
 •Federal Home Loan Level Bank System 2009-2018   
 •Canada Civil Aircraft Fatalities & Injuries   
-
+```
 ### Timeline
 •Key Speaker at Big Data & Analytics Conference https://infonex.com/1376/ (Fall 2020) Transformers, Deep Learning, Attention & NLP      
 •Senior Analyst - Model Development, at Transport Canada (2020-)  Ottawa, Ontario, Canada         
