@@ -10,9 +10,8 @@ Top 0,4% (7th out of 1,700+ teams) - https://tinyurl.com/s2f3yxt
 Top 1,3% (37th out of 2,700+ teams) - https://tinyurl.com/y4czhn24   
 Top 5% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9   
 
-### Kaggle Deep Learning Competitions:
+### Kaggle Deep Learning Competitions:   
 Top 2% - Categorical Feature Encoding Challenge II   
-
 https://www.kaggle.com/jeromeblanchet/competitions   
 
 ### AICrowd Deep Learning Competitions:
