@@ -10,8 +10,8 @@ Top 0,4% (7th out of 1,700+ teams) - https://www.drivendata.org/competitions/57/
 Top 1,3% (37th out of 2,700+ teams) - https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/leaderboard/   
 Top 5% (46th out of 800+ teams) - https://www.drivendata.org/competitions/66/flu-shot-learning/leaderboard/   
 
-### Kaggle Deep Learning Competitions:
+### Kaggle Deep Learning Competitions:  
+https://www.kaggle.com/jeromeblanchet/competitions   
 
-
-### AICrowd Deep Learning Competitions:   
-Just started the TrajNet++ Competition https://www.aicrowd.com/participants/jerome_blanchet
+### AICrowd Deep Learning Competitions:  
+https://www.aicrowd.com/participants/jerome_blanchet
