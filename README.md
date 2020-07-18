@@ -8,7 +8,7 @@
 •Top 0.1% (2th out of 1,600+ teams) - https://tinyurl.com/ux6ztrw Reboot: Box-Plots for Education   
 •Top 0.4% (7th out of 1,700+ teams) - https://tinyurl.com/s2f3yxt Richter's Predictor: Modeling Earthquake Damage   
 •Top 1.3% (37th out of 2,700+ teams) - https://tinyurl.com/y4czhn24 United Nations Millennium Development Goals   
-•Top 5% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9 Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines 
+•Top 05% (46th out of 800+ teams) - https://tinyurl.com/y5al6ch9 Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines 
 
 ### Kaggle Deep Learning/ML Competitions:   
 https://www.kaggle.com/jeromeblanchet/competitions   
@@ -16,23 +16,23 @@ https://www.kaggle.com/jeromeblanchet/competitions
 •Top 01% - Housing Prices Competition for Kaggle Learn Users (InClass 19k+ teams)   
 •Top 01% - House Prices: Advanced Regression Techniques   
 •Top 01% - Titanic: Machine Learning from Disaster   
-•Top 02% - Deep Fake Detection Challenge   
-•Top 03% - Предсказать день визита   
-•Top 04% - Catch Me If You Can - Intruder Detection through Webpage Session Tracking   
-•Top 04% - Predict Future Sales   
-•Top 04% - Real or Not? NLP with Disaster Tweets   
+•Top 02% - Предсказать день визита - Соревнования по курсу Машинного обучения Александра Дьяконова      
+•Top 02% - Real or Not? NLP with Disaster Tweets   
+•Top 02% - Categorical Feature Encoding Challenge II (20th out of 1,161 teams)  
+•Top 04% - mlcourse.ai: Flight delays - Predict whether a flight will be delayed for more than 15 minutes   
+•Top 05% - Catch Me If You Can - Intruder Detection through Webpage Session Tracking   
+•Top 05% - Predict Future Sales   
 •Top 05% - Adult-PMR3508   
-•Top 06% - Flower Classification with TPUs   
-•Top 06% - Categorical Feature Encoding Challenge II   
-•Top 11% - Zillow Prize: Zillow’s Home Value Prediction (Zestimate)   
+•Top 11% - Zillow Prize: Zillow’s Home Value Prediction (Zestimate)  
+•Top 13% - M5 Forecasting - Accuracy - Estimate the unit sales of Walmart retail goods   
+•Top 17% - Flower Classification with TPUs   
+•Top 20% - M5 Forecasting - Uncertainty - Estimate the uncertainty distribution of Walmart unit sales   
 •Top 22% - Santa's Workshop Tour 2019   
-•Top 22% - Personalized Medicine: Redefining Cancer Treatment   
-
-Top 02% - Categorical Feature Encoding Challenge II   
-
+•Top 22% - Personalized Medicine: Redefining Cancer Treatment - Predict the effect of Genetic Variants to enable Personalized Medicine   
+•Top 27% - Deep Fake Detection Challenge - Identify videos with facial or voice manipulations   
 
 ### AICrowd Deep Learning/ML Competitions:
-https://www.aicrowd.com/participants/jerome_blanchet   
+Just starting exploring this AI platform https://www.aicrowd.com/participants/jerome_blanchet   
 
 ### Contact Me at:
 •Gmail: JeromeblanchetAI@gmail.com   
