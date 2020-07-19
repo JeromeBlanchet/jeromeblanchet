@@ -41,8 +41,8 @@ Just starting exploring this new AI/ML competition platform https://www.aicrowd.
 •Gmail: JeromeblanchetAI@gmail.com   
 •Kaggle https://tinyurl.com/tfodmng    
 •AICrowd https://tinyurl.com/ue3bodf   
-•DrivenData https://tinyurl.com/ux6ztrw     
 •LinkedIn: https://tinyurl.com/y99wzc5r  
+•DrivenData https://tinyurl.com/ux6ztrw     
 •Twitter: https://twitter.com/JrmeEBlancht1    
 •LifesonAI (Oganization): https://github.com/LifesonAI   
 •GitHub (personal account): https://github.com/JeromeBlanchet  
