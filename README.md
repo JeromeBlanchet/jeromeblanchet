@@ -1,5 +1,3 @@
-![Alt Text](https://media.giphy.com/media/Td4BPgayuhUqNtwIP9/giphy.gif)
-
 *''The Number of People Predicting the Death of Moore's Law Doubles every 2 years''*   
 ― VP Microsoft Research   
 
