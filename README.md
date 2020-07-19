@@ -105,4 +105,7 @@ Other Datasets:
 •Academic Research Assistant in Econometric, Model Development, at Sherbrooke University (2012)      
 •Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University (-2011)      
 
+### Public & Private Repositories
+Please find below all my public projects. I am currently workin on many private project. Please contact me in for details about these private repositories.
+
 
