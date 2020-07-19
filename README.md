@@ -1,4 +1,4 @@
-<img align="right" width="375" height="150" src="../master/image.png">
+<img align="right" width="350" height="150" src="../master/image.png">
 
 *''The Number of People Predicting the Death of Moore's Law Doubles every 2 years''*   
 ― VP Microsoft Research   
