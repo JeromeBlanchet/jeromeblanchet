@@ -105,7 +105,7 @@ Other Datasets:
 •Academic Research Assistant in Econometric, Model Development, at Sherbrooke University (2012)      
 •Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University (-2011)      
 
-### Approved Pulled Request
+### Approved Pulled Requests
 •Neuraxio's Neuraxle Framework for Clean Deep Learning Pipeline: https://github.com/Neuraxio/Neuraxle/blob/master/README.rst   
 
 ### Public & Private Repositories
