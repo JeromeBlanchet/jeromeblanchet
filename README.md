@@ -12,6 +12,7 @@
 
 ### Kaggle Deep Learning/ML Competitions:   
 https://www.kaggle.com/jeromeblanchet/competitions   
+My long-run performance at Kaggle is a Sigmoid function
 ```
 •Top 01% - Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data   
 •Top 01% - Housing Prices Competition for Kaggle Learn Users (InClass 19k+ teams)   
