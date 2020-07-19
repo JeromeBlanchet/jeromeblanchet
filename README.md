@@ -105,6 +105,9 @@ Other Datasets:
 •Academic Research Assistant in Econometric, Model Development, at Sherbrooke University (2012)      
 •Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University (-2011)      
 
+### Approved Pulled Request
+•Neuraxio's Neuraxle Clean Pipeline Framework: https://github.com/Neuraxio/Neuraxle/blob/master/README.rst   
+
 ### Public & Private Repositories
 Please find below all my public projects. I am currently working on several private project.   
 Please contact me for details about these private repositories.
