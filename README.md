@@ -38,7 +38,7 @@ Just starting exploring this new AI/ML competition platform https://www.aicrowd.
 
 ### Contact Me at:
 •Gmail: JeromeblanchetAI@gmail.com   
-•LinkedIn: https://tinyurl.com/sxqeysd   
+•LinkedIn: https://tinyurl.com/y99wzc5r  
 •Twitter: https://twitter.com/JrmeEBlancht1    
 •LifesonAI (Oganization): https://github.com/LifesonAI   
 •GitHub (personal account): https://github.com/JeromeBlanchet  
