@@ -109,7 +109,7 @@ Other Datasets:
 •Neuraxio's Neuraxle Framework for Clean Deep Learning Pipeline: https://github.com/Neuraxio/Neuraxle/blob/master/README.rst   
 
 ### Public & Private Repositories
-Please find below all my public projects. I am currently working on several private project.   
+Please find below a couple of my public repository. I am currently working on several private project.   
 Please contact me for details about these private repositories.
 
 
