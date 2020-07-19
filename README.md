@@ -106,7 +106,7 @@ Other Datasets:
 •Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University (-2011)      
 
 ### Approved Pulled Request
-•Neuraxio's Neuraxle Clean Pipeline Framework: https://github.com/Neuraxio/Neuraxle/blob/master/README.rst   
+•Neuraxio's Neuraxle Framework for Clean Deep Learning Pipeline: https://github.com/Neuraxio/Neuraxle/blob/master/README.rst   
 
 ### Public & Private Repositories
 Please find below all my public projects. I am currently working on several private project.   
