@@ -106,6 +106,7 @@ Other Datasets:
 •Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University (-2011)      
 
 ### Public & Private Repositories
-Please find below all my public projects. I am currently workin on many private project. Please contact me in for details about these private repositories.
+Please find below all my public projects. I am currently working on several private project.   
+Please contact me for details about these private repositories.
 
 
