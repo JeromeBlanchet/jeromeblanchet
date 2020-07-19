@@ -38,10 +38,10 @@ My long-run performance at Kaggle is a Sigmoid function
 Just starting exploring this new AI/ML competition platform https://www.aicrowd.com/participants/jerome_blanchet   
 
 ### Contact Me at:
-•Gmail: JeromeblanchetAI@gmail.com
-•Kaggle https://tinyurl.com/tfodmng 
-•AICrowd https://tinyurl.com/ue3bodf 
-•DrivenData https://tinyurl.com/ux6ztrw   
+•Gmail: JeromeblanchetAI@gmail.com   
+•Kaggle https://tinyurl.com/tfodmng    
+•AICrowd https://tinyurl.com/ue3bodf   
+•DrivenData https://tinyurl.com/ux6ztrw     
 •LinkedIn: https://tinyurl.com/y99wzc5r  
 •Twitter: https://twitter.com/JrmeEBlancht1    
 •LifesonAI (Oganization): https://github.com/LifesonAI   
