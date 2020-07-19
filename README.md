@@ -21,7 +21,7 @@ My long-run performance at Kaggle is a Sigmoid function
 •Top 02% - Предсказать день визита - Соревнования по курсу Машинного обучения Александра Дьяконова      
 •Top 02% - Real or Not? NLP with Disaster Tweets   
 •Top 02% - Categorical Feature Encoding Challenge II (20th out of 1,161 teams)  
-•Top 04% - mlcourse.ai: Flight delays - Predict whether a flight will be delayed for more than 15 minutes   
+•Top 04% - Mlcourse.ai: Flight delays - Predict whether a flight will be delayed for more than 15 minutes   
 •Top 05% - Catch Me If You Can - Intruder Detection through Webpage Session Tracking   
 •Top 05% - Predict Future Sales   
 •Top 05% - Adult-PMR3508   
