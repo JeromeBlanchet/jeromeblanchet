@@ -108,6 +108,10 @@ Other Datasets:
 ### Approved Pulled Requests
 •Neuraxio's Neuraxle Framework for Clean Deep Learning Pipeline: https://github.com/Neuraxio/Neuraxle/blob/master/README.rst   
 
+### Public & Private Repositories
+Please find below a couple of my public repository. I am currently working on several private project.   
+Please contact me for details about these private repositories.   
+
 ### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -120,9 +124,5 @@ Other Datasets:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-### Public & Private Repositories
-Please find below a couple of my public repository. I am currently working on several private project.   
-Please contact me for details about these private repositories.
-
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
