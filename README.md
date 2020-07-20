@@ -57,12 +57,12 @@ Nb Votes/Nb Post: 6.25
 •LSTM Neural Network & Dropout Regularization Strategy (9 x up-voted)   
 •Concatenating PCA & Correspondence Analysis Factors in your modelling (6 x up-voted)   
 •Building Innovative Predictor for Financial Crisis (5 x up-voted)   
-•Montreal, Theano & Yoshua Bengio (3 x up-voted)   
-•Dendrogram and Hierarchical Clustering Logic (2 x up-voted)   
-•How to detect the Noisy Component of your PCA Factors? (2 x up-voted)   
+•Montreal, Theano & Yoshua Bengio (4 x up-voted)   
+•Dendrogram and Hierarchical Clustering Logic (3 x up-voted)   
+•How to detect the Noisy Component of your PCA Factors? (3 x up-voted)   
 •Approaches for Handling Missing Data (2 x up-voted)   
 •Self-organizing Map (SOM) (1 x up-voted)   
-•The FICO Competition Challenge is about Interpreting Black Box Algorithms   
+•The FICO Competition Challenge is about Interpreting Black Box Algorithms      
 ```
 ### Kaggle Datasets (Uploading, Promoting, & Managing the ''exclusive'' availability of 22 Datasets)
 https://www.kaggle.com/jeromeblanchet/datasets?sort=votes   
@@ -127,4 +127,6 @@ Please contact me for details about these private repositories.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
 
