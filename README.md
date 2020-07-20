@@ -112,7 +112,7 @@ Other Datasets:
 Please find below a couple of my public repository. I am currently working on several private project.   
 Please contact me for details about these private repositories.   
 
-### Languages
+### Programming Languages & Databases
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -141,7 +141,7 @@ Please contact me for details about these private repositories.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
 
-### Deep Learning Framework
+### Deep Learning Frameworks
 [![dep1](https://img.shields.io/badge/Tensorflow-brightorange.svg)](https://www.tensorflow.org/) 
 [![dep2](https://img.shields.io/badge/Keras-brightgreen.svg)](https://keras.io/)
 [![dep3](https://img.shields.io/badge/Pytorch-brightred.svg)](https://Pytorch.io/)   
