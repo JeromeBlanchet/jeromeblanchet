@@ -98,12 +98,12 @@ Other Datasets:
 •Canada Civil Aircraft Fatalities & Injuries   
 ```
 ### Timeline
-•Key Speaker at Big Data & Analytics Conference https://infonex.com/1376/ (Fall 2020) Transformers, Deep Learning, Attention & NLP      
-•Senior Analyst - Model Development, at Transport Canada (2020-)  Ottawa, Ontario, Canada         
-•Senior Specialist - Model Development & Housing Finance Stability Researcher, at CMHC (2015-2019) Ottawa, Ontario, Canada      
-•Analyst - Model Development, at DDM Group (2013-2014) Québec City      
-•Academic Research Assistant in Econometric, Model Development, at Sherbrooke University (2012)      
-•Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University (-2011)      
+•(Fall 2020) Key Speaker at Big Data & Analytics Conference https://infonex.com/1376/, Transformers, Deep Learning, Attention & NLP         
+•(2020-) Senior Analyst - Model Development, at Transport Canada, Ottawa, Ontario, Canada            
+•(2015-2019) Senior Specialist - Model Development & Housing Finance Stability Researcher, at CMHC, Ottawa, Ontario, Canada         
+•(2013-2014) Analyst - Model Development, at DDM Group, Québec City         
+•(2012) Academic Research Assistant in Econometric, Model Development, at Sherbrooke University          
+•(-2011) Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University          
 
 ### Approved Pulled Requests
 •Neuraxio's Neuraxle Framework for Clean Deep Learning Pipeline: https://github.com/Neuraxio/Neuraxle/blob/master/README.rst   
