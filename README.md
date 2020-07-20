@@ -140,8 +140,8 @@ Please contact me for details about these private repositories.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 ### Deep Learning Framework
-[![dep1](https://img.shields.io/badge/Tensorflow-brightgreen.svg)](https://www.tensorflow.org/) 
-[![dep2](https://img.shields.io/badge/Keras-brightgreen.svg)](https://keras.io/)
-[![dep3](https://img.shields.io/badge/Pytorch-brightgreen.svg)](https://Pytorch.io/)   
+[![dep1](https://img.shields.io/badge/Tensorflow-orange.svg)](https://www.tensorflow.org/) 
+[![dep2](https://img.shields.io/badge/Keras-red.svg)](https://keras.io/)
+[![dep3](https://img.shields.io/badge/Pytorch-red.svg)](https://Pytorch.io/)   
 
 
