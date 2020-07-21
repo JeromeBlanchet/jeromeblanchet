@@ -1,4 +1,4 @@
-  <img align="right" alt="GIF" width="20%" src="https://media.giphy.com/media/yL47EGrChKaC4/giphy.gif" />
+  <img align="right" alt="GIF" width="25%" src="https://media.giphy.com/media/yL47EGrChKaC4/giphy.gif" />
 
 *''The Number of People Predicting the Death of Moore's Law Doubles every 2 years''*   
 ― VP Microsoft Research   
