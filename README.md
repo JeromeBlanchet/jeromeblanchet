@@ -39,6 +39,8 @@ My long-run performance at Kaggle is a Sigmoid function
 ### AICrowd Deep Learning/ML Competitions:
 Just starting exploring this new AI/ML competition platform https://www.aicrowd.com/participants/jerome_blanchet   
 
+  <img align="right" alt="GIF" width="23%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
+
 ### Contact Me at:
 •Kaggle: https://tinyurl.com/tfodmng    
 •Gmail: JeromeblanchetAI@gmail.com   
