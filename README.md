@@ -158,7 +158,7 @@ Please contact me for details about these private repositories.
 
 #https://media.giphy.com/media/7lsZsFdEijZrW/giphy.gif
 #https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif
-  <img align="right" alt="GIF" width="30%" src="https://media.giphy.com/media/7lsZsFdEijZrW/giphy.gif" />
+  <img align="right" alt="GIF" width="30%" src="https://media.giphy.com/media/Ry0QlB6DwmCZO/giphy.gif" />
 
 ### Dashboard Control Panel
 
