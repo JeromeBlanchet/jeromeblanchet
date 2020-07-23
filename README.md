@@ -156,9 +156,7 @@ Please contact me for details about these private repositories.
 [![dep4](https://img.shields.io/badge/xgboost-brightred.svg)](https://xgboost.io/)
 [![dep5](https://img.shields.io/badge/lightgbm-brightred.svg)](https://lightgbm.io/)
 
-#https://media.giphy.com/media/7lsZsFdEijZrW/giphy.gif
-#https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif
-  <img align="right" alt="GIF" width="30%" src="https://media.giphy.com/media/Ry0QlB6DwmCZO/giphy.gif" />
+  <img align="right" alt="GIF" width="35%" src="https://media.giphy.com/media/Ry0QlB6DwmCZO/giphy.gif" />
 
 ### Dashboard Control Panel
 
