@@ -156,6 +156,8 @@ Please contact me for details about these private repositories.
 [![dep4](https://img.shields.io/badge/xgboost-brightred.svg)](https://xgboost.io/)
 [![dep5](https://img.shields.io/badge/lightgbm-brightred.svg)](https://lightgbm.io/)
 
+![Govind's github stats](https://github-readme-stats.vercel.app/api?username=GOVINDDIXIT&show_icons=true&hide_border=true)
+
 
 
 
