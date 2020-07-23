@@ -110,7 +110,7 @@ Other Datasets:
 •(2012) Academic Research Assistant in Econometric, Model Development, at Sherbrooke University          
 •(-2011) Bachelor's in Mathematics from Montreal University & Master's in Econometric from Sherbrooke University          
 
-### Approved Pulled Requests
+### Approved Pulled Requests & Contribution to Other Repositories
 •Neuraxio's Neuraxle Framework for Clean Deep Learning Pipeline: https://github.com/Neuraxio/Neuraxle/blob/master/README.rst   
 
 ### Public & Private Repositories
@@ -156,9 +156,11 @@ Please contact me for details about these private repositories.
 [![dep4](https://img.shields.io/badge/xgboost-brightred.svg)](https://xgboost.io/)
 [![dep5](https://img.shields.io/badge/lightgbm-brightred.svg)](https://lightgbm.io/)
 
+  <img align="right" alt="GIF" width="23%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
+
+### Dashboard Control Panel
+
 ![Jérôme's github stats](https://github-readme-stats.vercel.app/api?username=jeromeblanchet&show_icons=true&hide_border=false)
-
-
 
 
 
