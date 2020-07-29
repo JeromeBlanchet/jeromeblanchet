@@ -104,7 +104,7 @@ Other Datasets:
 ```
 ### Timeline
 •(Fall 2020) Key Speaker at Big Data & Analytics Conference https://infonex.com/1376/ Transformers, Deep Learning, Attention & NLP         
-•(2020-) Senior Analyst - Model Development, at Transport Canada, Ottawa, Ontario, Canada            
+•(2020-) Senior Analyst Lead - Model Development, at Transport Canada, Ottawa, Ontario, Canada            
 •(2015-2019) Senior Specialist - Model Development & Housing Finance Stability Researcher, at CMHC, Ottawa, Ontario, Canada         
 •(2013-2014) Analyst - Model Development, at DDM Group, Québec City         
 •(2012) Academic Research Assistant in Econometric, Model Development, at Sherbrooke University          
