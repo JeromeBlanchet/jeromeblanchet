@@ -51,8 +51,8 @@ Just starting exploring this new AI/ML competition platform https://www.aicrowd.
 •InfoNex: https://infonex.com/1376/agenda/   
 •LifesonAI (Oganization): https://github.com/LifesonAI   
 •GitHub (personal account): https://github.com/JeromeBlanchet  
-•Facebook AI & Deep Learning Memes Moderator: https://www.facebook.com/groups/1638417209555402/members/admins  
 •Stack Overflow (I joined recently): https://stackoverflow.com/users/13966273/j%c3%a9r%c3%b4me-blanchet?tab=profile   
+•Facebook AI & Deep Learning Memes Moderator: https://www.facebook.com/groups/1638417209555402/members/admins  
 
 ### Kaggle Technical Discussions:
 https://www.kaggle.com/jeromeblanchet/discussion   
