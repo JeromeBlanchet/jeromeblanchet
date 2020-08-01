@@ -42,13 +42,13 @@ Just starting exploring this new AI/ML competition platform https://www.aicrowd.
   <img align="right" alt="GIF" width="23%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
 
 ### Contact Me at:
-•InfoNex: https://infonex.com/1376/agenda/   
 •Kaggle: https://tinyurl.com/tfodmng    
 •Gmail: JeromeblanchetAI@gmail.com   
 •AICrowd: https://tinyurl.com/ue3bodf   
 •LinkedIn: https://tinyurl.com/y99wzc5r  
 •DrivenData: https://tinyurl.com/ux6ztrw     
 •Twitter: https://twitter.com/JrmeEBlancht1    
+•InfoNex: https://infonex.com/1376/agenda/   
 •LifesonAI (Oganization): https://github.com/LifesonAI   
 •GitHub (personal account): https://github.com/JeromeBlanchet  
 •Facebook AI & Deep Learning Memes Moderator: https://www.facebook.com/groups/1638417209555402/members/admins  
