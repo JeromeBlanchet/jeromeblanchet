@@ -178,7 +178,6 @@ Please contact me for details about these private repositories.
 
 ### Dashboard Control Panel
 
-![Jérôme's github stats](https://github-readme-stats.vercel.app/api?username=jeromeblanchet&show_icons=true&hide_border=false)
-
-
+![Jérôme's github stats](https://github-readme-stats.vercel.app/api?username=jeromeblanchet&show_icons=true&hide_border=false)   
+![Jérôme's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeblanchet&show_icons=true&hide_border=false)
 
