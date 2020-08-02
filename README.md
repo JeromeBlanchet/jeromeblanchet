@@ -170,8 +170,9 @@ Please contact me for details about these private repositories.
 [![dep1](https://img.shields.io/badge/Tensorflow-brightorange.svg)](https://www.tensorflow.org/)
 [![dep2](https://img.shields.io/badge/Keras-brightgreen.svg)](https://keras.io/)
 [![dep3](https://img.shields.io/badge/Pytorch-brightred.svg)](https://Pytorch.io/) 
-[![dep4](https://img.shields.io/badge/xgboost-brightred.svg)](https://xgboost.io/)
-[![dep5](https://img.shields.io/badge/lightgbm-brightred.svg)](https://lightgbm.io/)
+[![dep4](https://img.shields.io/badge/XGBoost-brightred.svg)](https://XGBoost.io/)
+[![dep5](https://img.shields.io/badge/LightGBM-brightred.svg)](https://LightGBM.io/)
+[![dep5](https://img.shields.io/badge/CatBoost-brightred.svg)](https://CatBoost.io/)
 
   <img align="right" alt="GIF" width="26%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />
 
