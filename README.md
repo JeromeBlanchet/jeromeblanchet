@@ -176,5 +176,8 @@ Please contact me for details about these private repositories.
 
   <img align="right" alt="GIF" width="26%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />
 
+### Dashboard Control Panel
 
+![Jérôme's github stats](https://github-readme-stats.vercel.app/api?username=jeromeblanchet&show_icons=true&hide_border=false)   
+![Jérôme's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeblanchet&show_icons=true&hide_border=false)
 
