@@ -189,10 +189,7 @@ Please contact me for details about these private repositories.
 </p>
 
   <img align="right" alt="GIF" width="25%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" />
-  
-0101101Δ110101010
-01Δ110101101010101Δ11010110
-0101101Δ1101010101010101101011111010110
-010110101101Δ10101011010110Δ01111101011Δ10110101010Δ1
+  <img align="left" alt="GIF" width="25%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" /> 
+
 
 
