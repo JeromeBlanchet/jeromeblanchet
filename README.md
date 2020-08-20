@@ -183,6 +183,5 @@ Please contact me for details about these private repositories.
 ![Jérôme's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeblanchet&show_icons=true&hide_border=false)
 
 ### My Life in One Picture
-<p>
-<img align="center" width="50" height="200" src="../master/transformer.png">
-</p>
+![ScreenShot](/master/transformer.png)
+
