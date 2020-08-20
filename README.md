@@ -188,6 +188,6 @@ Please contact me for details about these private repositories.
 	<img src=https://komarev.com/ghpvc/?username=jeromeblanchet alt=jeromeblanchet/>
 </p>
 
-  <img align="right" alt="GIF" width="23%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" />
+  <img align="center" alt="GIF" width="24%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" />
 
 
