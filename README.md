@@ -187,5 +187,3 @@ Please contact me for details about these private repositories.
 	<a href="https://www.linkedin.com/in/jérôme-e-blanch∑xt-👨🏻%E2%80%8D💻-📊-📈-📉-🤗-🔥-056a85ab"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<img src=https://komarev.com/ghpvc/?username=jeromeblanchet alt=jeromeblanchet/>
 </p>
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=jeromeblanchet alt=jeromeblanchet/> </p>
