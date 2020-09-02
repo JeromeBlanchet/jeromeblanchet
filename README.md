@@ -192,7 +192,27 @@ Please contact me for details about these private repositories.
   <img align="left" alt="GIF" width="25%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" /> 
 
 <h3 align="center">
-<p># Publicly Available Projects
+<p>Publicly Available Projects
+</h3>
+
+<h3 align="center">
+<p>                     
+</h3>
+
+<h3 align="center">
+<p>                     
+</h3>
+
+<h3 align="center">
+<p>                     
+</h3>
+
+<h3 align="center">
+<p>                     
+</h3>
+
+<h3 align="center">
+<p>                     
 </h3>
 
 
