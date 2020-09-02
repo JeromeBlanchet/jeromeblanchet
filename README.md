@@ -196,23 +196,23 @@ Please contact me for details about these private repositories.
 </h3>
 
 <h3 align="center">
-<p>                     
+<p> │                     
 </h3>
 
 <h3 align="center">
-<p>                     
+<p> │                    
 </h3>
 
 <h3 align="center">
-<p>                     
+<p> │                    
 </h3>
 
 <h3 align="center">
-<p>                     
+<p> │                    
 </h3>
 
 <h3 align="center">
-<p>                     
+<p> │                    
 </h3>
 
 
