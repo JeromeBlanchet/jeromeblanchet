@@ -177,11 +177,11 @@ Please contact me for details about these private repositories.
 <br />
 
 [<img align="left" alt="Keras" width="40px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" />](https://www.robofied.com)
-[<img align="left" alt="Matplotlib" width="70px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" />](https://www.robofied.com)
+[<img align="left" alt="Matplotlib" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" />](https://www.robofied.com)
 [<img align="left" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg" />](https://www.robofied.com)
-[<img align="left" alt="Sklearn" width="70px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" />](https://www.robofied.com)
+[<img align="left" alt="Sklearn" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" />](https://www.robofied.com)
 [<img align="left" alt="Tf" width="40px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" />](https://www.robofied.com)
-[<img align="left" alt="Pytorch" width="70px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" />](https://www.robofied.com)
+[<img align="left" alt="Pytorch" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" />](https://www.robofied.com)
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.robofied.com)
 
 <br />
