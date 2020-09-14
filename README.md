@@ -165,7 +165,6 @@ Please contact me for details about these private repositories.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>   
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
 
 ### Machine Learning & Deep Learning Frameworks
 [![dep1](https://img.shields.io/badge/Tensorflow-brightorange.svg)](https://www.tensorflow.org/)
@@ -180,7 +179,7 @@ Please contact me for details about these private repositories.
 [<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg" />](https://www.robofied.com)
 [<img align="left" alt="Sklearn" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" />](https://www.robofied.com)
 [<img align="left" alt="Tf" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" />](https://www.robofied.com)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.robofied.com)    
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.robofied.com)
 
   <img align="right" alt="GIF" width="26%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />
 
