@@ -172,16 +172,16 @@ Please contact me for details about these private repositories.
 [![dep3](https://img.shields.io/badge/Pytorch-brightred.svg)](https://Pytorch.io/) 
 [![dep4](https://img.shields.io/badge/XGBoost-brightred.svg)](https://XGBoost.io/)
 [![dep5](https://img.shields.io/badge/LightGBM-brightred.svg)](https://LightGBM.io/)
-[![dep5](https://img.shields.io/badge/CatBoost-brightred.svg)](https://CatBoost.io/)
+[![dep5](https://img.shields.io/badge/CatBoost-brightred.svg)](https://CatBoost.io/)    
 
-[<img align="left" alt="Keras" width="30px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" />]
+[<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" />]
 [<img align="left" alt="Matplotlib" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" />]
 [<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy-logo.svg" />]
 [<img align="left" alt="Sklearn" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" />]
 [<img align="left" alt="Tf" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
-  <img align="right" alt="GIF" width="26%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />
+  <img align="right" alt="GIF" width="26%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />    
 
 ### Dashboard Control Panel...∎ /▽
 
