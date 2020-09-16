@@ -188,7 +188,9 @@ Please contact me for details about these private repositories.
 
 <br />
 
-[<img align="left" alt="Pandas" width="60px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" />](https://www.robofied.com)
+[<img align="left" alt="Pandas" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" />](https://www.robofied.com)
+[<img align="left" alt="Torch" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/torch.svg" />](https://www.robofied.com)
+[<img align="left" alt="OpenCV" width="90px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/opencv.svg" />](https://www.robofied.com)
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.robofied.com)
 
 <br />
