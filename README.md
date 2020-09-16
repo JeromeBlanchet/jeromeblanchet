@@ -186,7 +186,7 @@ Please contact me for details about these private repositories.
 [<img align="left" alt="mxnet" width="60px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/mxnet.svg" />](https://www.robofied.com)
 [<img align="left" alt="Caffe" width="60px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/caffe.svg" />](https://www.robofied.com)     
 
-<br />
+<br /><br />
 
 [<img align="left" alt="Pandas" width="110px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" />](https://www.robofied.com)
 [<img align="left" alt="Torch" width="110px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/torch.svg" />](https://www.robofied.com)
