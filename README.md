@@ -193,6 +193,7 @@ Please contact me for details about these private repositories.
 [<img align="left" alt="Caffe" width="60px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/caffe.svg" />](https://www.robofied.com)
 [<img align="left" alt="SciPy" width="60px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scipy.svg" />](https://www.robofied.com)
 [<img align="left" alt="Caffe2" width="110px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/caffe2.svg" />](https://www.robofied.com)
+[<img align="left" alt="Weka" width="110px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/weka.svg" />](https://www.robofied.com)
 
 <br /> <br />
 
