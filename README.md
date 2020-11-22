@@ -104,6 +104,36 @@ Other Datasets:
 •Federal Home Loan Level Bank System 2009-2018   
 •Canada Civil Aircraft Fatalities & Injuries   
 ```
+
+### Speaker at the Canadian AI Conference 2021
+
+Honored to be Speaker at the Artificial Intelligence for the Public Sector Conference 2021
+Entrance cost for audience: $1,800-$2,400/person (free for speakers :-) )
+
+```
+10 speaker, which include,
+
+------Brian Drake, Director of Artificial Intelligence, Defense Intelligence Agency (DIA)
+------Yvan Gauthier, Senior Defence Scientist, Department of National Defence
+------Sevgui Erman (Ph.D), Director of Data Scientist, Statistics Canada
+------Maryam Haghighi, Director of Data Science, Bank of Canada
+```
+```
+My Table of Content:   
+
+Recent Research & Development in Time Series Forecasting Models
+------Uber’s Hybrid Method of Exponential Smoothing & Recurrent Neural Network (The ES-RNN Model)
+------Element AI’s Neural Basis Expansion Analysis for Interpretable Time Series Forecasting (The N-BEATS Model)
+Recent Research & Development in Natural Language Processing Models
+------Google Brain’s Attention is all you Need Paper (The Transformer Model)
+------Google AI’s Pre-training of Deep Bidirectional Transformers for Language Understanding (The BERT Model)
+------OpenAI’s Generative Pre-trained Transformer (The GPT-1-2-3 Models)
+```
+
+Main Page: https://infonex.com/1382/   
+Biographies: https://infonex.com/1382/speakers/   
+Agenda: https://infonex.com/1382/agenda/   
+
 ### Timeline
 •(Fall 2020) Key Speaker at Big Data & Analytics Conference https://infonex.com/1382/ Transformers, Deep Learning, Attention & NLP         
 •(2020-) Senior Analyst Lead - Model Development, at Transport Canada, Ottawa, Ontario, Canada            
