@@ -107,12 +107,12 @@ Other Datasets:
 
 ### Speaker at the Canadian AI Conference 2021
 
-Honored to be Speaker at the Artificial Intelligence for the Public Sector Conference 2021
-Entrance cost for audience: $1,800-$2,400/person (free for speakers :-) )
-
+Honored to be Speaker at the Artificial Intelligence for the Public Sector Conference 2021   
+Entrance cost for audience: $1,800-$2,400/person (free for speakers)
 ```
 10 speaker, which include,
 
+------Carter Cousineau (Ph.D), Managing Director, Centre for Advancing Responsible and Ethical Artificial Intelligence, The University of Guelph
 ------Brian Drake, Director of Artificial Intelligence, Defense Intelligence Agency (DIA)
 ------Yvan Gauthier, Senior Defence Scientist, Department of National Defence
 ------Sevgui Erman (Ph.D), Director of Data Scientist, Statistics Canada
@@ -129,7 +129,6 @@ Recent Research & Development in Natural Language Processing Models
 ------Google AI’s Pre-training of Deep Bidirectional Transformers for Language Understanding (The BERT Model)
 ------OpenAI’s Generative Pre-trained Transformer (The GPT-1-2-3 Models)
 ```
-
 Main Page: https://infonex.com/1382/   
 Biographies: https://infonex.com/1382/speakers/   
 Agenda: https://infonex.com/1382/agenda/   
