@@ -112,7 +112,7 @@ Entrance cost for audience: $1,800-$2,400/person (free for speakers)
 ```
 10 speaker, which include,
 
-------Carter Cousineau (Ph.D), Managing Director, Centre for Advancing Responsible and Ethical Artificial Intelligence, The University of Guelph
+------Carter Cousineau (Ph.D), Managing Director, Centre for Ethical Artificial Intelligence, The University of Guelph
 ------Brian Drake, Director of Artificial Intelligence, Defense Intelligence Agency (DIA)
 ------Yvan Gauthier, Senior Defence Scientist, Department of National Defence
 ------Sevgui Erman (Ph.D), Director of Data Scientist, Statistics Canada
