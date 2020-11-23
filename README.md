@@ -119,7 +119,7 @@ Entrance cost for audience: $1,800-$2,400/person (free for speakers)
 ------Maryam Haghighi, Director of Data Science, Bank of Canada
 ```
 ```
-My Table of Content:   
+My Table of Content for Canadian AI Conference 2021:   
 
 Recent Research & Development in Time Series Forecasting Models
 ------Uber’s Hybrid Method of Exponential Smoothing & Recurrent Neural Network (The ES-RNN Model)
@@ -130,6 +130,16 @@ Recent Research & Development in Natural Language Processing Models
 ------Google AI’s Pre-training of Deep Bidirectional Transformers for Language Understanding (The BERT Model)
 ------OpenAI’s Generative Pre-trained Transformer (The GPT-1-2-3 Models)
 ```
+
+Bibliography for Canadian AI Conference 2021:
+
+A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting
+https://www.researchgate.net/publication/334556784_A_hybrid_method_of_exponential_smoothing_and_recurrent_neural_networks_for_time_series_forecasting
+
+Fast ES-RNN: A GPU Implementation of the ES-RNN Algorithm
+https://arxiv.org/pdf/1907.03329.pdf
+
+
 Main Page: https://infonex.com/1382/   
 Biographies: https://infonex.com/1382/speakers/   
 Agenda: https://infonex.com/1382/agenda/   
