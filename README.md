@@ -124,6 +124,7 @@ My Table of Content:
 Recent Research & Development in Time Series Forecasting Models
 ------Uber’s Hybrid Method of Exponential Smoothing & Recurrent Neural Network (The ES-RNN Model)
 ------Element AI’s Neural Basis Expansion Analysis for Interpretable Time Series Forecasting (The N-BEATS Model)
+
 Recent Research & Development in Natural Language Processing Models
 ------Google Brain’s Attention is all you Need Paper (The Transformer Model)
 ------Google AI’s Pre-training of Deep Bidirectional Transformers for Language Understanding (The BERT Model)
