@@ -108,11 +108,11 @@ Other Datasets:
 ### Speaker at the Canadian AI Conference 2021
 
 Honored to be Speaker at the Artificial Intelligence for the Public Sector Conference 2021   
-Entrance cost for audience: $1,800-$2,400/person (free for speakers)   
+Attendance Fee: $1,800-$2,400/person (free for speakers)   
 
 Main Page: https://infonex.com/1382/   
-Biographies: https://infonex.com/1382/speakers/   
 Agenda: https://infonex.com/1382/agenda/   
+Biographies: https://infonex.com/1382/speakers/   
 
 ```
 10 speaker, which include,
