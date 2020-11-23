@@ -137,9 +137,7 @@ Recent Research & Development in Natural Language Processing Models
 ```
 
 Bibliography for My Canadian AI Conference content:
-
-•A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting   
-https://www.researchgate.net/publication/334556784_A_hybrid_method_of_exponential_smoothing_and_recurrent_neural_networks_for_time_series_forecasting   
+   
 •Fast ES-RNN: A GPU Implementation of the ES-RNN Algorithm https://arxiv.org/pdf/1907.03329.pdf   
 •N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR INTERPRETABLE TIME SERIES FORECASTING https://arxiv.org/pdf/1905.10437.pdf    
 •Attention Is All You Need https://arxiv.org/pdf/1706.03762.pdf   
