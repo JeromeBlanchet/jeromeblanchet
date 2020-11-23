@@ -108,7 +108,12 @@ Other Datasets:
 ### Speaker at the Canadian AI Conference 2021
 
 Honored to be Speaker at the Artificial Intelligence for the Public Sector Conference 2021   
-Entrance cost for audience: $1,800-$2,400/person (free for speakers)
+Entrance cost for audience: $1,800-$2,400/person (free for speakers)   
+
+Main Page: https://infonex.com/1382/   
+Biographies: https://infonex.com/1382/speakers/   
+Agenda: https://infonex.com/1382/agenda/   
+
 ```
 10 speaker, which include,
 
@@ -131,18 +136,15 @@ Recent Research & Development in Natural Language Processing Models
 ------OpenAI’s Generative Pre-trained Transformer (The GPT-1-2-3 Models)
 ```
 
-Bibliography for Canadian AI Conference 2021:
+Bibliography for My Canadian AI Conference content:
 
-A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting
-https://www.researchgate.net/publication/334556784_A_hybrid_method_of_exponential_smoothing_and_recurrent_neural_networks_for_time_series_forecasting
-
-Fast ES-RNN: A GPU Implementation of the ES-RNN Algorithm
-https://arxiv.org/pdf/1907.03329.pdf
-
-
-Main Page: https://infonex.com/1382/   
-Biographies: https://infonex.com/1382/speakers/   
-Agenda: https://infonex.com/1382/agenda/   
+•A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting   
+https://www.researchgate.net/publication/334556784_A_hybrid_method_of_exponential_smoothing_and_recurrent_neural_networks_for_time_series_forecasting   
+•Fast ES-RNN: A GPU Implementation of the ES-RNN Algorithm https://arxiv.org/pdf/1907.03329.pdf   
+•N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR INTERPRETABLE TIME SERIES FORECASTING https://arxiv.org/pdf/1905.10437.pdf    
+•Attention Is All You Need https://arxiv.org/pdf/1706.03762.pdf   
+•BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/pdf/1810.04805.pdf   
+•Language Models are Few-Shot Learners https://arxiv.org/pdf/2005.14165.pdf
 
 ### Timeline
 •(Fall 2020) Key Speaker at Big Data & Analytics Conference https://infonex.com/1382/ Transformers, Deep Learning, Attention & NLP         
