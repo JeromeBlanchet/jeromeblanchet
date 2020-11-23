@@ -139,7 +139,7 @@ Recent Research & Development in Natural Language Processing Models
 Bibliography for My Canadian AI Conference content:
    
 •Fast ES-RNN: A GPU Implementation of the ES-RNN Algorithm https://arxiv.org/pdf/1907.03329.pdf   
-•N-BEATS: NEURAL BASIS EXPANSION ANALYSIS FOR INTERPRETABLE TIME SERIES FORECASTING https://arxiv.org/pdf/1905.10437.pdf    
+•N-BEATS: Neural Basis Expansion Analysis for Interpretable Time Series Forecasting https://arxiv.org/pdf/1905.10437.pdf    
 •Attention Is All You Need https://arxiv.org/pdf/1706.03762.pdf   
 •BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/pdf/1810.04805.pdf   
 •Language Models are Few-Shot Learners https://arxiv.org/pdf/2005.14165.pdf
