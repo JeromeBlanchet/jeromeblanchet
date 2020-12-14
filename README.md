@@ -129,6 +129,7 @@ My Table of Content for Canadian AI Conference 2021:
 Recent Research & Development in Time Series Forecasting Models
 ------Uber’s Hybrid Method of Exponential Smoothing & Recurrent Neural Network (The ES-RNN Model)
 ------Element AI’s Neural Basis Expansion Analysis for Interpretable Time Series Forecasting (The N-BEATS Model)
+------Facebook's Neural Network for Time-Series (The NeuralProphet Model) 
 
 Recent Research & Development in Natural Language Processing Models
 ------Google Brain’s Attention is all you Need Paper (The Transformer Model)
@@ -136,10 +137,14 @@ Recent Research & Development in Natural Language Processing Models
 ------OpenAI’s Generative Pre-trained Transformer (The GPT-1-2-3 Models)
 ```
 
-Bibliography for My Canadian AI Conference content:
-   
+Selected Bibliography for My Canadian AI Conference content:   
+
+Recent Research & Development in Time Series Forecasting Models 
 •Fast ES-RNN: A GPU Implementation of the ES-RNN Algorithm https://arxiv.org/pdf/1907.03329.pdf   
 •N-BEATS: Neural Basis Expansion Analysis for Interpretable Time Series Forecasting https://arxiv.org/pdf/1905.10437.pdf    
+•AR-Net: A Simple Auto-Regressive Neural Network for Time-Series https://arxiv.org/pdf/1911.12436.pdf   
+
+Recent Research & Development in Natural Language Processing Models
 •Attention Is All You Need https://arxiv.org/pdf/1706.03762.pdf   
 •BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/pdf/1810.04805.pdf   
 •Language Models are Few-Shot Learners https://arxiv.org/pdf/2005.14165.pdf
