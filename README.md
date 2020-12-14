@@ -145,7 +145,7 @@ Bibliography for My Canadian AI Conference content:
 •Language Models are Few-Shot Learners https://arxiv.org/pdf/2005.14165.pdf
 
 ### Timeline
-•(Fall 2020) Key Speaker at Big Data & Analytics Conference https://infonex.com/1382/ Transformers, Deep Learning, Attention & NLP         
+•(Winter 2021) Speaker at Canadian Artifial Intelligence Conference https://infonex.com/1382/ Transformers, Deep Learning, Attention, RNN/LSTM & NLP         
 •(2020-) Senior Analyst Lead - Model Development, at Transport Canada, Ottawa, Ontario, Canada            
 •(2015-2019) Senior Specialist - Model Development & Housing Finance Stability Researcher, at CMHC, Ottawa, Ontario, Canada         
 •(2013-2014) Analyst - Model Development, at DDM Group, Québec City         
