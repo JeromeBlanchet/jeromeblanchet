@@ -139,12 +139,12 @@ Recent Research & Development in Natural Language Processing Models
 
 Selected Bibliography for My Canadian AI Conference content:   
 
-Recent Research & Development in Time Series Forecasting Models 
+Recent Research & Development in Time Series Forecasting Models   
 •Fast ES-RNN: A GPU Implementation of the ES-RNN Algorithm https://arxiv.org/pdf/1907.03329.pdf   
 •N-BEATS: Neural Basis Expansion Analysis for Interpretable Time Series Forecasting https://arxiv.org/pdf/1905.10437.pdf    
 •AR-Net: A Simple Auto-Regressive Neural Network for Time-Series https://arxiv.org/pdf/1911.12436.pdf   
 
-Recent Research & Development in Natural Language Processing Models
+Recent Research & Development in Natural Language Processing Models   
 •Attention Is All You Need https://arxiv.org/pdf/1706.03762.pdf   
 •BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/pdf/1810.04805.pdf   
 •Language Models are Few-Shot Learners https://arxiv.org/pdf/2005.14165.pdf
