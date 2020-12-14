@@ -120,7 +120,7 @@ Biographies: https://infonex.com/1382/speakers/
 ------Carter Cousineau (Ph.D), Managing Director, Centre for Ethical Artificial Intelligence, The University of Guelph
 ------Brian Drake, Director of Artificial Intelligence, Defense Intelligence Agency (DIA)
 ------Yvan Gauthier, Senior Defence Scientist, Department of National Defence
-------Sevgui Erman (Ph.D), Director of Data Scientist, Statistics Canada
+------Sevgui Erman (Ph.D), Director of Data Science, Statistics Canada
 ------Maryam Haghighi, Director of Data Science, Bank of Canada
 ```
 ```
