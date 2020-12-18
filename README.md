@@ -48,7 +48,7 @@ Just starting exploring this new AI/ML competition platform https://www.aicrowd.
 •LinkedIn: https://tinyurl.com/y99wzc5r  
 •DrivenData: https://tinyurl.com/ux6ztrw     
 •Twitter: https://twitter.com/JrmeEBlancht1    
-•InfoNex: https://infonex.com/1376/agenda/   
+•InfoNex: https://infonex.com/1382/  
 •LifesonAI (Oganization): https://github.com/LifesonAI   
 •GitHub (personal account): https://github.com/JeromeBlanchet  
 •Quora: https://www.quora.com/profile/J%C3%A9r%C3%B4me-E-Blanchet   
