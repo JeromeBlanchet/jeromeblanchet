@@ -113,6 +113,7 @@ Attendance Fee: $1,800-$2,400/person (free for speakers)
 Main Page: https://infonex.com/1382/   
 Agenda: https://infonex.com/1382/agenda/   
 Biographies: https://infonex.com/1382/speakers/   
+PDF: https://infonex.com/1382/agenda-pdf/?pdf=Brochure   
 
 ```
 10 speaker, which include,
