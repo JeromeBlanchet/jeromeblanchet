@@ -151,7 +151,7 @@ Selected Bibliography for My Canadian AI Conference content:
 •Language Models are Few-Shot Learners https://arxiv.org/pdf/2005.14165.pdf
 
 ### Timeline
-•(2022-) Unit Head - Senior Data Scientist Engineer - Center for Special Business Projects - DEIL - at Statistics Canada        
+•(2022-) Unit Head - Senior Data Science Engineer - Center for Special Business Projects - DEIL - at Statistics Canada        
 •(2021) Senior Data Scientist & Senior Economic Advisor - Data Science Division - at Transport Canada        
 •(2021) Speaker at Artifial Intelligence Conference https://infonex.com/1382/ Transformers, Deep Learning, Self-Attention, LSTM & NLP         
 •(2020) Senior Analyst Lead - Model Development (NLP), at Transport Canada, Ottawa, Ontario, Canada            
