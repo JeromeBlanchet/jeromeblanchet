@@ -244,7 +244,7 @@ Please contact me for details about these private repositories.
 
 <br /> <br />
 
-  <img align="right" alt="GIF" width="45%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />    
+  <img align="right" alt="GIF" width="40%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />    
 
 ### Dashboard Control Panel...∎ /▽
 
