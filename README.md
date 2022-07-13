@@ -39,7 +39,7 @@ My long-run performance at Kaggle is a Sigmoid function
 ### AICrowd Deep Learning/ML Competitions:
 Just starting exploring this new AI/ML competition platform https://www.aicrowd.com/participants/jerome_blanchet   
 
-  <img align="right" alt="GIF" width="23%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
+  <img align="right" alt="GIF" width="45%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
 
 ### Contact Me at:
 •Kaggle: https://tinyurl.com/tfodmng    
@@ -244,7 +244,7 @@ Please contact me for details about these private repositories.
 
 <br /> <br />
 
-  <img align="right" alt="GIF" width="26%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />    
+  <img align="right" alt="GIF" width="45%" src="https://media.giphy.com/media/6gHLYHhhQDrkk/giphy.gif" />    
 
 ### Dashboard Control Panel...∎ /▽
 
@@ -258,8 +258,8 @@ Please contact me for details about these private repositories.
 	<img src=https://komarev.com/ghpvc/?username=jeromeblanchet alt=jeromeblanchet/>
 </p>
 
-  <img align="right" alt="GIF" width="25%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" />
-  <img align="left" alt="GIF" width="25%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" /> 
+  <img align="right" alt="GIF" width="45%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" />
+  <img align="left" alt="GIF" width="45%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" /> 
 
 <h3 align="center">
 <p>Publicly Available Projects
