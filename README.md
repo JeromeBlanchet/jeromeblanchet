@@ -128,15 +128,15 @@ PDF: https://infonex.com/1382/agenda-pdf/?pdf=Brochure
 ```
 My Table of Content for Canadian AI Conference 2021:   
 
-Recent Research & Development in Time Series Forecasting Models (30 Minute)
-------Uber’s Hybrid Method of Exponential Smoothing & Recurrent Neural Network (The ES-RNN Model) (10 Minute)
-------Element AI’s Neural Basis Expansion Analysis for Interpretable Time Series Forecasting (The N-BEATS Model) (10 Minute)
-------Facebook's Neural Network for Time-Series (The NeuralProphet Model) (10 Minute)
+Recent Research & Development in Time Series Forecasting Models
+------Uber’s Hybrid Method of Exponential Smoothing & Recurrent Neural Network (The ES-RNN Model)
+------Element AI’s Neural Basis Expansion Analysis for Interpretable Time Series Forecasting (The N-BEATS Model)
+------Facebook's Neural Network for Time-Series (The NeuralProphet Model)
 
-Recent Research & Development in Natural Language Processing Models (30 Minute)
-------Google Brain’s Attention is all you Need Paper (The Transformer Model) (10 Minute)
-------Google AI’s Pre-training of Deep Bidirectional Transformers for Language Understanding (The BERT Model) (10 Minute)
-------OpenAI’s Generative Pre-trained Transformer (The GPT-1-2-3 Models) (10 Minute)
+Recent Research & Development in Natural Language Processing Models
+------Google Brain’s Attention is all you Need Paper (The Transformer Model)
+------Google AI’s Pre-training of Deep Bidirectional Transformers for Language Understanding (The BERT Model)
+------OpenAI’s Generative Pre-trained Transformer (The GPT-1-2-3 Models)
 ```
 
 Selected Bibliography for My Canadian AI Conference content:   
