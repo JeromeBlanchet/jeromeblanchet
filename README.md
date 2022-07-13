@@ -258,8 +258,8 @@ Please contact me for details about these private repositories.
 	<img src=https://komarev.com/ghpvc/?username=jeromeblanchet alt=jeromeblanchet/>
 </p>
 
-  <img align="right" alt="GIF" width="45%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" />
-  <img align="left" alt="GIF" width="45%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" /> 
+  <img align="right" alt="GIF" width="40%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" />
+  <img align="left" alt="GIF" width="40%" src="https://media.giphy.com/media/3oEduRioi6lvTNmZKE/giphy.gif" /> 
 
 <h3 align="center">
 <p>Publicly Available Projects
