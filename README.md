@@ -1,6 +1,7 @@
   <img align="right" alt="GIF" width="47%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
 
-*''The Number of People Predicting the Death of Moore's Law Doubles every 2 years''*   
+*''The Number of People Predicting the Death of Moore's Law   
+Doubles every 2 years''*   
 ― VP Microsoft Research   
 
 *''The future is already here – it's just not evenly distributed''*   
