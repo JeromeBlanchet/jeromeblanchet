@@ -1,4 +1,4 @@
-  <img align="right" alt="GIF" width="47%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
+  <img align="right" alt="GIF" width="25%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
 
 *''The Number of People Predicting the Death of Moore's Law   
 Doubles every 2 years''*   
@@ -40,7 +40,7 @@ My long-run performance at Kaggle is a Sigmoid function
 ### AICrowd Deep Learning/ML Competitions:
 Just starting exploring this new AI/ML competition platform https://www.aicrowd.com/participants/jerome_blanchet   
 
-  <img align="right" alt="GIF" width="45%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
+  <img align="right" alt="GIF" width="25%" src="https://media.giphy.com/media/5xtDarKIen78OlWQzDy/giphy.gif" />
 
 ### Contact Me at:
 •Kaggle: https://tinyurl.com/tfodmng    
